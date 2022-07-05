@@ -1,4 +1,4 @@
-<script lang="ts" setup name="AppTopnav"></script>
+<script lang="ts" setup name="AppTopNav"></script>
 
 <template>
   <nav class="app-topnav">

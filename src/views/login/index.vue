@@ -1,13 +1,6 @@
+<script lang="ts" setup name="Login"></script>
 <template>
-$END$
+  <div>login组件</div>
 </template>
 
-<script>
-export default {
-name: "index"
-}
-</script>
-
-<style scoped>
-
-</style>
+<style lang="less" scoped></style>
